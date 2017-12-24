@@ -1,2 +1,2 @@
 print('Hello world!')
-print('') #write smth there
+print('part 2') #write smth there
